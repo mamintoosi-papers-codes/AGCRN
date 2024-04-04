@@ -4,7 +4,7 @@ This folder concludes the code and data of our AGCRN model: [Adaptive Graph Conv
 
 ## Run in Colab
 
-https://colab.research.google.com/github/mamintoosi-papers-codes/AGCRN/blob/main/main_AGCRN.ipynb
+https://colab.research.google.com/github/mamintoosi-papers-codes/AGCRN/blob/master/main_AGCRN.ipynb
 
 
 ## Structure:
