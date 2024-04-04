@@ -2,6 +2,11 @@
 
 This folder concludes the code and data of our AGCRN model: [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://arxiv.org/pdf/2007.02842.pdf), which has been accepted to NeurIPS 2020. 
 
+## Run in Colab
+
+https://colab.research.google.com/github/mamintoosi-papers-codes/AGCRN/blob/main/main_AGCRN.ipynb
+
+
 ## Structure:
 
 * data: including PEMSD4 and PEMSD8 dataset used in our experiments, which are released by and available at  [ASTGCN](https://github.com/Davidham3/ASTGCN/tree/master/data).
